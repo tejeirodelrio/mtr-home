@@ -3,4 +3,4 @@
 </h1>
 
 This blog is based on the following gatsby-starter: https://github.com/EmaSuriano/gatsby-starter-mate
-It uses Gatsby, Netlify, Contentful and Medium articles.
+It uses Gatsby, Netlify, Contentful and Medium articles :)
